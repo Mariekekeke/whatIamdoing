@@ -10,4 +10,7 @@ There are a couple of things I want to work out:
 - Figure out Databricks
 - Figure out Git & Github
 
+
+https://towardsdatascience.com/how-to-feature-your-github-repositories-on-linkedin-56078e1ffddb
+
 ## This is where to store code
